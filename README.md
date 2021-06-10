@@ -22,3 +22,7 @@ Install matplotlib on your system with anaconda distributor and PIP
 
 1. Gas Prices Over time
 2. Fifa World Cup
+
+## Video
+
+[Video](https://www.youtube.com/watch?v=sqkpUJtrFcc)
