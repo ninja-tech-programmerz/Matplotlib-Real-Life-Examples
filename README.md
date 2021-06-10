@@ -25,4 +25,4 @@ Install matplotlib on your system with anaconda distributor and PIP
 
 ## Video
 
-[Video](https://www.youtube.com/watch?v=sqkpUJtrFcc)
+[Detailed Video For This Project](https://www.youtube.com/watch?v=sqkpUJtrFcc)
